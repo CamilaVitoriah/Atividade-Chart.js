@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(186, 216, 191);
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+
+  .chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px;
+  }
+  
+
+  .chart-box {
+    background-color: white;
+    border-radius: 16px;
+    padding: 20px;
+    width: 500px;
+    height: auto;
+  }
+ 
